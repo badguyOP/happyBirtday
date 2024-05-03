@@ -7,7 +7,7 @@ const Main = () => {
         <p className={styles.happy}>Happy</p>
         <p className={styles.happy}>Birthday</p>
       </div>
-      <div className={styles.riya}>Riya</div>
+      <div className={styles.riya}>Vidhi</div>
       <div className={styles.mayYourDreams}>
         May your dreams become reality and may the year ahead be filled with joy
         and success!
